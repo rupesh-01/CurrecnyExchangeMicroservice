@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.mircoservices.namingserver.NamingServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.324 s -- in com.example.mircoservices.namingserver.NamingServerApplicationTests

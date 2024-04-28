@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.example.mircoservices.currencyconversionservice.builders.RestTemplateConfiguration;
 import com.example.mircoservices.currencyconversionservice.entities.CurrencyConversion;
 import com.example.mircoservices.currencyconversionservice.proxies.CurrencyExchangeProxy;
 
